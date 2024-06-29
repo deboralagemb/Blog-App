@@ -2,7 +2,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "blog-app-server",
+    name: "API",
     platforms: [
        .macOS(.v13)
     ],
