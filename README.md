@@ -16,3 +16,6 @@ brew install vapor
 
 ### Open API Package
 ⚒️ Under construction ⚒️
+
+### Run
+1. Select "My Mac" as run destination
