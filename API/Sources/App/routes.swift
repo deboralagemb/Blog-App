@@ -2,6 +2,9 @@ import Vapor
 
 func routes(_ app: Application) throws {
 
+    try app.register(collection: UserController())
+    
+    /*
     let blogPosts = app.grouped("posts")
     
     // MARK: - Get
@@ -14,6 +17,5 @@ func routes(_ app: Application) throws {
         let post = try req.content.decode(BlogPost.self)
         return post
     }
-    
-    // MARK: - Delete
+    */
 }
