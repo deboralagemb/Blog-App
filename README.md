@@ -19,3 +19,7 @@ brew install vapor
 
 ### Run
 1. Select "My Mac" as run destination
+
+
+### API Specifications
+- MVC Design Pattern
